@@ -1,5 +1,5 @@
 # brainstorm
-This repo is about my app for my own learning and making something great.
+This repo is my template.
 
 # What's the tech stack
 docker based react + typescript + nodejs + mysql application.
